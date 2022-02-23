@@ -1,85 +1,22 @@
-# TAREA 1
+# TAREA 9
 ## 1.	OBJETIVOS
 
 	1.1	GENERAL: 
-Analizar los 2 primeros capítulos del libro ¨Principios de circuitos eléctricos¨ de Floyd, con el objetivo de introducirse en los conceptos básicos de la electrónica.
+
 
 	1.2	ESPECÍFICOS:
 
-**a.**	Comprender el funcionamiento del Sistema Internacional de medidas con el fin de: representar cantidades grandes y pequeñas con notación científica; y el de reconocer prefijos y conceptos varios utilizados en el área de Ciencias Exactas.
+**a.**	
 		
-**b.**	Identificar: las partes básicas de un circuito eléctrico, los tipos y valores de distintas resistencias, los riesgos eléctricos y las medidas de seguridad que se deben poner en práctica al momento de trabajar con electricidad.
+**b.**
 
-**c.**	Definir conceptos como: átomo, carga eléctrica, voltaje, corriente y resistencia, fuente de voltaje, fuente de corriente, Tierra, etc. A fin de que estos conceptos sean de ayuda para el entendimiento de la materia de Fundamentos de Circuitos Eléctricos y subsiguientes.
+**c.**	
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
-### CAPÍTULO 1: Cantidades y unidades
-	
-        	1–1 Unidades de medición
-	
-En 1875 se crea el ¨Système International d’Unités¨ para establecer estándares internacionales de medidas entre 18 países (a los cuales se les unirían más posteriormente.)
+### CAPÍTULO 17:
 
-En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), además este utiliza su definición en función del tiempo(t)(el segundo). Las demás medidas utilizadas en electrónica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto, es una unidad derivada (Ver tabla 1). 
-
-![download](https://user-images.githubusercontent.com/93396250/140690292-a82a422c-b08a-447f-bd8a-e0165756fd62.jpg)
-
-*Tabla 1. Unidades básicas en el SI*
-
-Se utiliza un símbolo para representar el nombre de la cantidad y otro para identificar la unidad de medición (Ver tabla 2). 
-
-![Cantidad Símbolo](https://user-images.githubusercontent.com/93396250/140690521-6703bbd1-f84e-477e-88b0-1d44d996de2c.JPG)
-
-*Tabla 2. Cantidades eléctricas y unidades derivadas con símbolos SI.*
-        
-		1–2 Notación científica
-	
-La notación científica es muy util al momento de representar números grandes y pequeños ademas de realizar calculos que usen dichas cantidades. Se representa como el producto de un número y una potencia de diez. Por ejemplo, el 450000000 se representaria como 4.5 * 10^8 y el 0.0000056 como 5.6 * 10^-6 . A continuación se encuentra un mapa conceptual describiendo las operaciones básicas con notación científica.
-
-![Jsjsjs](https://user-images.githubusercontent.com/93396250/140695337-f37fb022-df6c-4bf6-8fa0-3b04c9e99136.png)
-
-
-        	1–3 Notación de ingeniería y prefijos métricos
-		
-[![Diagrama-en-blanco.png](https://i.postimg.cc/D0pXvGMj/Diagrama-en-blanco.png)](https://postimg.cc/bSbJLZ8k)
-	
-La notación en ingeniera al igual que en la matemática se usa para poder expresar de mejor manera cantidades o muy grandes o muy pequeñas, pero a diferencia de las matemáticas, la notación en ingeniera solo usa potencias de 10 que son múltiplos de 3.  Teniendo asi como ejemplo el numero 65000 que en notacion matematica seria represetado como 6.5*10^4 en notacion de ingenieria es 65*10^3.
-
-Para poder nombrar a cada una de estas potencias múltiplos de 3 se usan prefijos métricos que sirven para expresar cada una de estas potencias, cabe recalcar que estos prefijos métricos se usan solo con números que tienen una unidad de medida tales como el voltaje, amperio, ohms, etc. También es importante mencionar que no todas las potencias múltiples de 3 tienen su prefijo métrico, solo las más comunes.
-        	
-		1–4 Conversiones de unidades métricas
-	
-A menudo resulta más útil convertir una cantidad que tiene un determinado prefijo métrico a otra, esto con el fin de facilitar operaciones matemáticas. La conversión de dichas unidades tiene 3 reglas principales las cuales son:
-
-	1. Cuando se convierte de una unidad grande a una pequeña la coma se mueve hacia la derecha
-	2. Cuando se convierte de una unidad pequeña a una grande la coma se mueve hacia la izquierda
-	3. El número de espacios que la coma debe recorrer está definido por la diferencia entre las potencias de 10 de las unidades que se quiere convertir.
-
-	
-### CAPÍTULO 2: Voltaje, corriente y resistencia
-	
-		2–1 Estructura atómica
-
-Todo aquello que nos rodea es considerado materia la cual se compone de átomos, y ellos a su vez de electrones, protones y neutrones. El átomo es la partícula más pequeña, que forma un elemento y logra mantener sus particularidades y propiedades.
-
-![NUCLEO](https://user-images.githubusercontent.com/93826527/140783238-23247126-462c-4ffa-b8cf-758210c64efc.jpg)
-
-
-Dentro del núcleo, las particulas están cargadas negativamente **(electrones)** y positivamente **(protones)**
-
- 
-		2–2 Carga eléctrica 
-![Blank diagram (1)](https://user-images.githubusercontent.com/93826527/140828905-0a4947f2-df33-4671-ad64-7cd31a2209a4.png)
-
-
-![kkk](https://user-images.githubusercontent.com/93826527/140829001-398ef093-b3ec-4c9f-913c-6991f6405353.png)
-
-
-		2–3 Voltaje, corriente y resistencia 
-        
-![Blank diagram (2)](https://user-images.githubusercontent.com/93826527/140829036-46b4e8b8-d592-408d-90dd-ff4937e62c30.png)
-
-
+### CAPÍTULO 18:
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
