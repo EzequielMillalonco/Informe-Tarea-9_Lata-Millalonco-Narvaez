@@ -89,7 +89,8 @@ serie y en paralelo. Ademas de analizar el cirucito en cuanto a resonancia en se
 **23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB = 500 Hz; Q = 40; e IC (máx) = 20 mA, VC (máx) = 2.5 V.**
 
 
-SECCIÓN 18–4    Filtros Rechazabanda
+	SECCIÓN 18–4    Filtros Rechazabanda
+
 **25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo**
  
 **27.  Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.**
