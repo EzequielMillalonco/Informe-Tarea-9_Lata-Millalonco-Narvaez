@@ -3,15 +3,17 @@
 
 	1.1	GENERAL: 
 
+Examinar circuitos RLC y su respectiva resonancia, asi como extender el conocimiento adquirido en los circuitos RLC para aplicarlos a los filtros pasivos
 
 	1.2	ESPECÍFICOS:
 
-**a.**	
-		
-**b.**
+**a.**	Analizar circuitos RLC en serie y paralelo, para asi determinar la impedancia de dicho circuito
+serie y en paralelo. Ademas de analizar el cirucito en cuanto a resonancia en serie y paralelo
 
-**c.**	
+**b.** Analizar la operación de filtros pasabajas RC y RL y la operación de filtros pasabanda
 
+**c.**	Analizar la operación de filtros pasaaltas RC y RL y la operación de filtros rechazabanda
+ 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
 ### CAPÍTULO 17:
