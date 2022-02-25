@@ -25,6 +25,8 @@ serie y en paralelo. Ademas de analizar el cirucito en cuanto a resonancia en se
 
 ### CAPÍTULO 18:
 
+![Diagrama en blanco (16)](https://user-images.githubusercontent.com/93834732/155629655-7d42710f-05cf-4490-bc70-f170dde972ce.png)
+
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
 ### CAPÍTULO 17: 
