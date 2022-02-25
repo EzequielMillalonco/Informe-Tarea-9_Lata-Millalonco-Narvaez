@@ -24,6 +24,11 @@ serie y en paralelo. Ademas de analizar el cirucito en cuanto a resonancia en se
 	
 ### CAPÍTULO 17: 
 	
+![Blank diagram (16)](https://user-images.githubusercontent.com/93826527/154589740-bae3c54a-3a47-451b-a233-4bea57e14a02.png)
+
+![Blank diagram (17)](https://user-images.githubusercontent.com/93826527/154590256-ddeef3a9-fe97-4d07-b214-32ccbb871c82.png)
+
+
 
 		
 ### CAPÍTULO 18:
