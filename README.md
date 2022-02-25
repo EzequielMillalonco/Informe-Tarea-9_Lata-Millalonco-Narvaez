@@ -246,16 +246,24 @@ Para el circuito de retraso de la figura, determine el retraso de fase del volta
 
 **21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 120 V?**
  
+![image](https://user-images.githubusercontent.com/93396250/155660903-6ea2bf41-d33c-41ff-bb4e-240b2930f90e.png)
 
 **23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB = 500 Hz; Q = 40; e IC (máx) = 20 mA, VC (máx) = 2.5 V.**
+
+![image](https://user-images.githubusercontent.com/93396250/155660888-4c486f64-51f3-4bee-b0ea-7d0a6fac2a58.png)
 
 
 	SECCIÓN 18–4    Filtros Rechazabanda
 
 **25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo**
+
+![image](https://user-images.githubusercontent.com/93396250/155660868-d98eee12-aac2-4c0d-9e1c-b4add5716910.png)
+
  
 **27.  Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.**
- 
+
+![image](https://user-images.githubusercontent.com/93396250/155660832-fdbef611-46d7-4214-970c-9bc7dcfdabe0.png)
+
 
 ## 4.	VIDEO
 	
