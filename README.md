@@ -268,11 +268,10 @@ Para el circuito de retraso de la figura, determine el retraso de fase del volta
 ## 4.	VIDEO
 	
 	Link del video ¨Informe tarea 1¨, en dondé se explican 4 ejercicios vistos en la Tarea #1 :
+
+https://youtu.be/IfcUrNkf0V4	
 	
-https://youtu.be/2iV6VzArCmY
-	
-	
-[![Presentación Tarea 1](https://img.youtube.com/vi/2iV6VzArCmY/0.jpg)](https://www.youtube.com/watch?v=2iV6VzArCmY)
+[![Presentación Tarea 1](https://img.youtube.com/vi/IfcUrNkf0V4/0.jpg)](https://www.youtube.com/watch?v=IfcUrNkf0V4)
 	
 ## 5.	CONCLUSIONES
 
