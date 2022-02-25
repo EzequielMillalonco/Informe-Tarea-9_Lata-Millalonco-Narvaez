@@ -29,24 +29,91 @@ serie y en paralelo. Ademas de analizar el cirucito en cuanto a resonancia en se
 	
 ### CAPÍTULO 17: 
 	
+	SECCIÓN 17–1    Filtros pasabajas
 
-*23. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura.*
+**1. Cierto circuito RLC en serie tiene los siguientes valores: R = 10 Ohms, C = 0.047 microF, y L = 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.*
+
+![image](https://user-images.githubusercontent.com/93834732/155631125-574d53b3-8181-459d-ae10-6c72572949c2.png)
+
+**3. Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?*
+
+![image](https://user-images.githubusercontent.com/93834732/155631174-5d2db980-b33d-4a7e-9d17-2c060b154fca.png)
+
+
+![image](https://user-images.githubusercontent.com/93834732/155631145-1b69aef7-9074-4c31-8f8e-d6e0befc834a.png)
+
+	SECCIÓN 17–2 Análisis de circuitos RLC en serie
+
+**5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.**
+
+![image](https://user-images.githubusercontent.com/93834732/155631206-b2bed2c9-0ab4-4f1b-a51e-095043ce1778.png)
+
+![image](https://user-images.githubusercontent.com/93834732/155631233-b95b822b-f532-482f-a129-e8ac218b3385.png)
+
+**7. Analice el circuito de la figura 17-60 para determinar lo siguiente (f =25 kHz):
+(a)Iwt (b) (c)Pr (d)Pw**
+
+![image](https://user-images.githubusercontent.com/93834732/155631266-35274aa3-26d5-4d14-9af1-c056bec822bc.png)
+
+![image](https://user-images.githubusercontent.com/93834732/155631301-b734bc32-4d6e-4ba6-a28d-46131fd3f2d2.png)
+
+	SECCIÓN 17–3 Resonancia en serie
+	
+**9. Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?**
+
+![image](https://user-images.githubusercontent.com/93834732/155631332-c7fabbf6-3133-46a9-86d6-0ece3378297e.png)
+
+**11.Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?**
+
+![image](https://user-images.githubusercontent.com/93834732/155631382-53b393d9-b1e4-4eb2-9aa0-027d50734d9f.png)
+
+**13. Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?**
+
+![image](https://user-images.githubusercontent.com/93834732/155652334-65300741-218e-4d13-96cf-4260e988abad.png)
+
+**15. Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con
+un conmutador:**
+
+(a) 500 kHz (b) 1000 kHz (c) 1500 kHz (d) 2000 kHz**
+
+
+	SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo
+	
+**17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta. 
+
+![image](https://user-images.githubusercontent.com/93834732/155631449-4192066b-0d9d-4fed-9c4b-7e1c46a9eb9d.png)
+
+![image](https://user-images.githubusercontent.com/93834732/155631479-8ae1382e-6d52-472c-a9d5-030364f0278a.png)
+
+	SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
+	
+**19.Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar*
+
+![image](https://user-images.githubusercontent.com/93834732/155631504-cb245e91-7f90-4572-8c3e-6ef865a0d8c4.png)
+
+![image](https://user-images.githubusercontent.com/93834732/155631531-d6a30d9b-6ea0-4842-82b0-5aecd2527bac.png)
+
+**21.Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19.*
+
+![image](https://user-images.githubusercontent.com/93834732/155631557-66ff9108-6271-4682-ba9b-295070ee04f9.png)
+
+**23. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura.*
 
 ![image](https://user-images.githubusercontent.com/93834732/155045703-1bb15ed2-86de-46b3-bcb3-586574152c3a.png)
 
-*25. Calcule la corriente total en cada circuito de la figura y exprésela en forma polar.*
+**25. Calcule la corriente total en cada circuito de la figura y exprésela en forma polar.*
 
 ![image](https://user-images.githubusercontent.com/93834732/155045731-7fe28fb2-688d-4d80-bbe5-3bb0ad53b9c1.png)
 
 ![image](https://user-images.githubusercontent.com/93834732/155045747-42aa2a88-a3fc-40a7-adac-cf96055438a0.png)
 
-*27. Si se duplica la inductancia que aparece en la figura , ¿en cuántos grados aumenta o disminuye teta?*
+**27. Si se duplica la inductancia que aparece en la figura , ¿en cuántos grados aumenta o disminuye teta?*
 
 ![image](https://user-images.githubusercontent.com/93834732/155045801-144eb209-c088-4682-95d7-ebe547d9c9cc.png)
 
 El angulo aumenta en 20 grados
 
-*29. Para el circuito de la figura , encuentre VR y VL para cada una de las siguientes frecuencias*
+**29. Para el circuito de la figura , encuentre VR y VL para cada una de las siguientes frecuencias*
 
 (a) 60 Hz 
 
@@ -84,11 +151,11 @@ Para el circuito de retraso de la figura, determine el retraso de fase del volta
 
 
 	
-*31. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura?*
+**31. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura?*
 
 ![image](https://user-images.githubusercontent.com/93834732/155046314-5a5f5a16-7e44-49b2-9c29-90d7fbecd366.png)
 
-*33 ¿A qué frecuencia XL es igual a R en la figura ?*
+**33 ¿A qué frecuencia XL es igual a R en la figura ?*
 
 ![image](https://user-images.githubusercontent.com/93834732/155046295-bb518d2f-bbdb-4273-b7ce-4d424d87f911.png)
 
