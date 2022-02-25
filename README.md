@@ -276,11 +276,11 @@ https://youtu.be/2iV6VzArCmY
 	
 ## 5.	CONCLUSIONES
 
-**a.**
+**a.** En un circuito RCL en serie: la reactancia más grande determina la reactancia neta del circuito y la corriente es máxima en condición de resonancia. Mientras que en un circuito RCL en paralelo la reactancia más pequeña determina la reactancia neta del circuito y este circuito resonante notmalmente se llama circuito tanque
 
-**b.**
+**b.** Las frecuencias críticas son las frecuencias ubicadas por encima y por debajo de la condición de resonancia donde la respuesta del circuito es un 70.7% de la respuesta máxima.
 
-**c.**
+**c.** Cuatro categorías de filtros pasivos, de acuerdo con sus características de respuesta, son: pasabajas, pasaaltas, pasabanda y rechazabanda. Por lo que en un En un filtro RC pasabajas, el voltaje de salida se toma a través del capacitor y la salida se retrasa con respecto a la entrada y en uno Rl pasabajas el voltaje de salida se toma a través del resistor y la salida se retrasa con respecto a la entrada. Mientras que en un filtro Rc pasaaltas la salida se toma a través del resistor y la salida se adelanta a la entrada y en un filtro RL pasaaltas, la salida se toma a través del inductor y la salida se adelanta a la entrada.
 
 
 ## 6.	BIBLIOGRAFÍA
