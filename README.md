@@ -18,17 +18,101 @@ serie y en paralelo. Ademas de analizar el cirucito en cuanto a resonancia en se
 
 ### CAPÍTULO 17:
 
+![Blank diagram (16)](https://user-images.githubusercontent.com/93826527/154589740-bae3c54a-3a47-451b-a233-4bea57e14a02.png)
+
+![Blank diagram (17)](https://user-images.githubusercontent.com/93826527/154590256-ddeef3a9-fe97-4d07-b214-32ccbb871c82.png)
+
+
 ### CAPÍTULO 18:
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
 ### CAPÍTULO 17: 
 	
-![Blank diagram (16)](https://user-images.githubusercontent.com/93826527/154589740-bae3c54a-3a47-451b-a233-4bea57e14a02.png)
 
-![Blank diagram (17)](https://user-images.githubusercontent.com/93826527/154590256-ddeef3a9-fe97-4d07-b214-32ccbb871c82.png)
+*23. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.*
+
+![image](https://user-images.githubusercontent.com/93834732/155045703-1bb15ed2-86de-46b3-bcb3-586574152c3a.png)
+
+*25. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.*
+
+![image](https://user-images.githubusercontent.com/93834732/155045731-7fe28fb2-688d-4d80-bbe5-3bb0ad53b9c1.png)
+
+![image](https://user-images.githubusercontent.com/93834732/155045747-42aa2a88-a3fc-40a7-adac-cf96055438a0.png)
+
+*27. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye teta?*
+
+![image](https://user-images.githubusercontent.com/93834732/155045801-144eb209-c088-4682-95d7-ebe547d9c9cc.png)
+
+El angulo aumenta en 20 grados
+
+*29. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias*
+
+(a) 60 Hz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046155-76de56a3-5c70-48fa-9885-dc31cf5e37c7.png)
+
+(b) 200 Hz
+
+![image](https://user-images.githubusercontent.com/93834732/155046184-3f63c5a8-cdeb-4559-8b64-81ca579d2361.png)
+
+(c) 500 Hz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046231-f69ec26c-297a-41cc-8e26-cb8fe42d1750.png)
+
+(d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/93834732/155046245-bbcf3d92-da6f-4001-9d9b-8a9d649f2540.png)
+
+Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+(a) 1 Hz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046351-a9659f26-5b4f-4860-bcd8-9865808d0910.png)
+
+(b) 100 Hz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046375-706d1006-0d11-49fe-a8ec-5819bb543c49.png)
+
+(c) 1 kHz 
+
+![image](https://user-images.githubusercontent.com/93834732/155046441-1c458c20-c077-48fc-887c-2ee4ac582b98.png)
+
+(d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/93834732/155046468-ac281d48-afc4-44e9-b110-e0f598fbc613.png)
 
 
+	
+*31. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?*
+
+![image](https://user-images.githubusercontent.com/93834732/155046314-5a5f5a16-7e44-49b2-9c29-90d7fbecd366.png)
+
+*33 ¿A qué frecuencia XL es igual a R en la figura 16-63?*
+
+![image](https://user-images.githubusercontent.com/93834732/155046295-bb518d2f-bbdb-4273-b7ce-4d424d87f911.png)
+
+	SECCIÓN 16–6    Análisis de circuitos RL en serie-paralelo
+
+**35. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.**
+
+![image](https://user-images.githubusercontent.com/93396250/154872711-bfe0f387-ca2c-49c2-86af-bcb7354f5782.png)
+
+**37. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A**
+
+![image](https://user-images.githubusercontent.com/93396250/154872723-10314bcf-e0b8-4fda-a325-699de1b2cd7b.png)
+![image](https://user-images.githubusercontent.com/93396250/154872727-455c52bc-fac2-4c2e-8405-c91a31e7e61a.png)
+
+	SECCIÓN 16–7   Potencia en circuitos RL
+
+**39. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.**
+
+![image](https://user-images.githubusercontent.com/93396250/154872754-cd94a619-07a1-4e13-8e1a-d7433107ad04.png)
+
+**41. Determine P, Q , S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia**
+
+![image](https://user-images.githubusercontent.com/93396250/154872767-88219ccc-503a-465f-86e3-b4424c5af946.png)
+![image](https://user-images.githubusercontent.com/93396250/154872774-4cd61546-6797-4e45-a0e6-2a912b17cd6a.png)
 
 		
 ### CAPÍTULO 18:
