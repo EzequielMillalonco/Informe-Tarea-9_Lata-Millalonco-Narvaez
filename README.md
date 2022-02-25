@@ -125,6 +125,9 @@ Para el circuito de retraso de la figura, determine el retraso de fase del volta
 
 **3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent = 10 V.**
 
+![image](https://user-images.githubusercontent.com/93396250/155656543-d56f25c4-cad9-46f2-88da-79034940ffab.png)
+![image](https://user-images.githubusercontent.com/93396250/155656565-2b6a3afb-1215-43e0-979a-572932873be6.png)
+![image](https://user-images.githubusercontent.com/93396250/155656592-72de09f1-b6c2-49e2-bb84-aa2ff51d1f77.png)
 
 **5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:**
 
